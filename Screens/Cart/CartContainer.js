@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     },
     quantitySymbol: {
         fontSize: 16,
-        padding: 15,
+        padding: 14,
         backgroundColor: "palevioletred",
         color: "white",
         borderRadius: 10
